@@ -6,7 +6,7 @@
 
 * Writing a file based database system
 
-* Becomibg familiar woth the needs for a true database system 
+* Becoming familiar with the needs for a true database system 
 
 **Program Description**
 
