@@ -1,4 +1,4 @@
-# DatabaseScripts
+# In this project, database connection with the python is introduced as well as its importance. The Python script, which contains the principles of database system but is file based, explains the needs for a true database system.
 
 ### FileCRUD.py
  
